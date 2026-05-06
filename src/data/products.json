@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "productName": "Café Colombiano Premium",
+    "unitPrice": 24.90,
+    "package": "Caja x 500g",
+    "isDiscontinued": false,
+    "supplierId": 1
+  },
+  {
+    "id": 2,
+    "productName": "Chocolate Orgánico 70%",
+    "unitPrice": 40.00,
+    "package": "Caja x 12 unidades",
+    "isDiscontinued": false,
+    "supplierId": 2
+  },
+  {
+    "id": 3,
+    "productName": "Aceite de Oliva Extra Virgen",
+    "unitPrice": 28.50,
+    "package": "Botella 750ml",
+    "isDiscontinued": false,
+    "supplierId": 3
+  },
+  {
+    "id": 4,
+    "productName": "Quinua Blanca Orgánica",
+    "unitPrice": 18.00,
+    "package": "Bolsa x 1kg",
+    "isDiscontinued": false,
+    "supplierId": 4
+  },
+  {
+    "id": 5,
+    "productName": "Mermelada de Mora",
+    "unitPrice": 22.00,
+    "package": "Frasco 250g",
+    "isDiscontinued": false,
+    "supplierId": 5
+  },
+  {
+    "id": 6,
+    "productName": "Té Verde Sencha",
+    "unitPrice": 12.00,
+    "package": "Caja x 20 sobres",
+    "isDiscontinued": false,
+    "supplierId": 6
+  },
+  {
+    "id": 7,
+    "productName": "Queso Manchego Curado",
+    "unitPrice": 35.00,
+    "package": "Pieza 500g",
+    "isDiscontinued": false,
+    "supplierId": 7
+  },
+  {
+    "id": 8,
+    "productName": "Salsa Picante Artesanal",
+    "unitPrice": 9.90,
+    "package": "Botella 150ml",
+    "isDiscontinued": false,
+    "supplierId": 8
+  },
+  {
+    "id": 9,
+    "productName": "Dulce de Leche Clásico",
+    "unitPrice": 16.00,
+    "package": "Frasco 400g",
+    "isDiscontinued": false,
+    "supplierId": 9
+  },
+  {
+    "id": 10,
+    "productName": "Jamón Serrano Reserva",
+    "unitPrice": 45.00,
+    "package": "Paquete 250g",
+    "isDiscontinued": false,
+    "supplierId": 10
+  }
+]

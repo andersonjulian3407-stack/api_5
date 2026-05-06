@@ -1,0 +1,12 @@
+[
+  { "id": 1,  "companyName": "Andes Coffee Export",      "contactName": "Laura Méndez",    "contactTitle": "Sales Manager",          "city": "Medellín",    "country": "Colombia", "phone": "+57 604 555 1200",  "fax": null              },
+  { "id": 2,  "companyName": "Cacao del Pacífico",       "contactName": "Andrés Salazar",  "contactTitle": "Account Executive",      "city": "Cali",        "country": "Colombia", "phone": "+57 602 555 8821",  "fax": null              },
+  { "id": 3,  "companyName": "Mediterranean Foods Ltd.", "contactName": "Elena Rossi",     "contactTitle": "Export Director",        "city": "Barcelona",   "country": "España",   "phone": "+34 93 555 7821",   "fax": "+34 93 555 7822" },
+  { "id": 4,  "companyName": "Altiplano Grains",         "contactName": "Sofía Quispe",    "contactTitle": "Operations Lead",        "city": "Puno",        "country": "Perú",     "phone": "+51 51 555 3300",   "fax": null              },
+  { "id": 5,  "companyName": "Sabores Andinos",          "contactName": "Paula Rojas",     "contactTitle": "Commercial Manager",     "city": "Bogotá",      "country": "Colombia", "phone": "+57 601 555 7610",  "fax": null              },
+  { "id": 6,  "companyName": "Asia Tea Traders",         "contactName": "Kenji Nakamura",  "contactTitle": "Regional Sales Director","city": "Tokyo",       "country": "Japón",    "phone": "+81 3 5555 9080",   "fax": "+81 3 5555 9081" },
+  { "id": 7,  "companyName": "La Mancha Dairy Co.",      "contactName": "Javier Martín",   "contactTitle": "Sales Representative",   "city": "Toledo",      "country": "España",   "phone": "+34 925 555 210",   "fax": null              },
+  { "id": 8,  "companyName": "Fuego Maya Foods",         "contactName": "Ricardo Castillo","contactTitle": "Founder",                "city": "Mérida",      "country": "México",   "phone": "+52 999 555 4400",  "fax": null              },
+  { "id": 9,  "companyName": "Pampa Dulce S.A.",         "contactName": "Martín Acosta",   "contactTitle": "Key Account Manager",    "city": "Buenos Aires","country": "Argentina","phone": "+54 11 5555 1930",  "fax": null              },
+  { "id": 10, "companyName": "Iberian Select Foods",     "contactName": "Clara Domínguez", "contactTitle": "International Sales",    "city": "Madrid",      "country": "España",   "phone": "+34 91 555 6540",   "fax": "+34 91 555 6541" }
+]

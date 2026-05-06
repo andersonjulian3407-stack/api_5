@@ -1,0 +1,12 @@
+[
+  { "id": 1, "firstName": "Carlos",    "lastName": "Ramírez",   "city": "Bogotá",           "country": "Colombia",   "phone": "+57 300 123 4567" },
+  { "id": 2, "firstName": "María",     "lastName": "González",  "city": "Quito",            "country": "Ecuador",    "phone": "+593 99 222 3344" },
+  { "id": 3, "firstName": "Diego",     "lastName": "Fernández", "city": "Lima",             "country": "Perú",       "phone": "+51 987 654 321"  },
+  { "id": 4, "firstName": "Ana",       "lastName": "Torres",    "city": "Santiago",         "country": "Chile",      "phone": "+56 9 8765 4321"  },
+  { "id": 5, "firstName": "Lucía",     "lastName": "Morales",   "city": "Ciudad de México", "country": "México",     "phone": "+52 55 1234 5678" },
+  { "id": 6, "firstName": "Jorge",     "lastName": "Pineda",    "city": "San José",         "country": "Costa Rica", "phone": "+506 8888 1122"   },
+  { "id": 7, "firstName": "Valentina", "lastName": "Herrera",   "city": "Montevideo",       "country": "Uruguay",    "phone": "+598 91 234 567"  },
+  { "id": 8, "firstName": "Pedro",     "lastName": "Castillo",  "city": "Panamá",           "country": "Panamá",     "phone": "+507 6000 7788"   },
+  { "id": 9, "firstName": "Camila",    "lastName": "Silva",     "city": "São Paulo",        "country": "Brasil",     "phone": "+55 11 99999 2233"},
+  { "id": 10,"firstName": "Santiago",  "lastName": "Vega",      "city": "Buenos Aires",     "country": "Argentina",  "phone": "+54 9 11 2345 6789"}
+]
